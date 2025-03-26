@@ -1,0 +1,12 @@
+{
+  "Name": "Proximity Voice Chat",
+  "Author": "Greem",
+  "Version": "1.0.0",
+  "Description": "This mod add a voice chat with proximity",
+  "UniqueID": "Greem.PVC",
+  "EntryDll": "PVCMod.dll",
+  "MinimumApiVersion": "4.1.0",
+  "UpdateKeys": [
+
+  ]
+}
